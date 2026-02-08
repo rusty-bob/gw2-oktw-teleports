@@ -1,0 +1,1035 @@
+{
+  "name": "Jays Rich Node Farm",
+  "teleports": [
+    {
+      "name": "CO - Clams",
+      "coordinates": [
+        -56307.504,
+        -27951.617,
+        -1230.8
+      ],
+      "map": 1210,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "CO - Rich Quartz Crystal",
+      "coordinates": [
+        54781.03,
+        -10218.262,
+        7397.2637
+      ],
+      "map": 1210,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "CO - Rich Orichalcum 1",
+      "coordinates": [
+        55619.04,
+        -6111.1465,
+        4125.408
+      ],
+      "map": 1210,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "CO - Rich Orichalcum 2",
+      "coordinates": [
+        9308.155,
+        -24748.709,
+        1615.887
+      ],
+      "map": 1210,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "CO - Rich Orichalcum 3",
+      "coordinates": [
+        27933.521,
+        15805.667,
+        8739.507
+      ],
+      "map": 1210,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DHL - Rich Orichalcum 1",
+      "coordinates": [
+        -4951.692,
+        1408.4557,
+        11709.149
+      ],
+      "map": 1211,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DHL - Rich Orichalcum 2",
+      "coordinates": [
+        -7524.352,
+        -20446.002,
+        7078.0703
+      ],
+      "map": 1211,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DHL - Strawberry Patch",
+      "coordinates": [
+        -16510.377,
+        -6607.9604,
+        3421.4546
+      ],
+      "map": 1211,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DHL - Clams (Requires Movement)",
+      "coordinates": [
+        -55534.023,
+        -20473.213,
+        -1151.2389
+      ],
+      "map": 1211,
+      "tooltip": "Danger - Aggressive Jellys + Manual Movement"
+    },
+    {
+      "name": "DOK - Flax / Herbs (Requires Movement)",
+      "coordinates": [
+        -29111.953,
+        29363.363,
+        1344.8691
+      ],
+      "map": 1288,
+      "tooltip": "Safe - Requires to run to nodes"
+    },
+    {
+      "name": "DOK - Rich Orichalcum",
+      "coordinates": [
+        -9787.641,
+        15017.539,
+        5055.505
+      ],
+      "map": 1288,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DOK - Rich Mithril Vein",
+      "coordinates": [
+        -7194.2827,
+        13177.679,
+        5003.666
+      ],
+      "map": 1288,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "DOV - Rich Orichalcum 1 ( Brandstorm Dmg)",
+      "coordinates": [
+        56841.773,
+        -16157.813,
+        6093.565
+      ],
+      "map": 1248,
+      "tooltip": "Danger - Brandstorm "
+    },
+    {
+      "name": "DOV - Rich Orichalcum 2",
+      "coordinates": [
+        53978.094,
+        -35055.797,
+        5872.16
+      ],
+      "map": 1248,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DOV - Rich Orichalcum 3",
+      "coordinates": [
+        -37422.31,
+        -29576.232,
+        4220.3013
+      ],
+      "map": 1248,
+      "tooltip": "Danger - Aggressive Nasty Veteran"
+    },
+    {
+      "name": "JB - Flax (Requires Movement)",
+      "coordinates": [
+        -2400.5298,
+        24224.922,
+        6079.369
+      ],
+      "map": 1301,
+      "tooltip": "Requires Movement and Easy mob kills"
+    },
+    {
+      "name": "SSI - Garden Nodes",
+      "coordinates": [
+        -971.1371,
+        28772.072,
+        1213.4413
+      ],
+      "map": 1271,
+      "tooltip": "Safe - Cabbage / Artichoke / Herbs / Vegetables"
+    },
+    {
+      "name": "SSI - Rich Orichalcum",
+      "coordinates": [
+        13379.542,
+        31390.715,
+        2791.228
+      ],
+      "map": 1271,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DSL - Carrots",
+      "coordinates": [
+        18677.732,
+        58159.734,
+        686.8813
+      ],
+      "map": 1226,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DSL - Orichalcum",
+      "coordinates": [
+        27239.102,
+        60542.58,
+        1168.6008
+      ],
+      "map": 1226,
+      "tooltip": "Safe - Not rich but always there."
+    },
+    {
+      "name": "DSL - Rich Orichalcum 1",
+      "coordinates": [
+        41769.535,
+        56553.656,
+        2034.7777
+      ],
+      "map": 1226,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DSL - Rich Orichalcum 2",
+      "coordinates": [
+        -7425.4897,
+        -51986.562,
+        8728.127
+      ],
+      "map": 1226,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DSL - Rich Orichalcum 3",
+      "coordinates": [
+        29910.49,
+        1752.0493,
+        13692.488
+      ],
+      "map": 1226,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "BRS - Rich Iron",
+      "coordinates": [
+        22782.969,
+        -19185.07,
+        338.51938
+      ],
+      "map": 20,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "BRS - Cabbage",
+      "coordinates": [
+        18135.338,
+        23094.914,
+        1708.6108
+      ],
+      "map": 20,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "BRS - Rich Gold",
+      "coordinates": [
+        22099.717,
+        46137.957,
+        1878.9993
+      ],
+      "map": 20,
+      "tooltip": "Danger - Aggresive Mobs"
+    },
+    {
+      "name": "DSP - Strawberry",
+      "coordinates": [
+        -40872.523,
+        -24462.586,
+        2699.0222
+      ],
+      "map": 32,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DSP - Rich Iron",
+      "coordinates": [
+        -38061.61,
+        -7687.6333,
+        3678.3433
+      ],
+      "map": 32,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DSP - Rich Silver",
+      "coordinates": [
+        -4124.843,
+        4551.7544,
+        3040.7446
+      ],
+      "map": 32,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FOR - Grapes",
+      "coordinates": [
+        21185.238,
+        -33412.76,
+        1462.8531
+      ],
+      "map": 21,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FOR - Rich Iron",
+      "coordinates": [
+        -29984.28,
+        10389.285,
+        1723.3328
+      ],
+      "map": 21,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FOR - Rich Gold",
+      "coordinates": [
+        34715.305,
+        10654.65,
+        662.7453
+      ],
+      "map": 21,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FOR - Rich Silver",
+      "coordinates": [
+        21479.484,
+        32242.562,
+        208.02678
+      ],
+      "map": 21,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FHR - Butternut Squash",
+      "coordinates": [
+        -26982.08,
+        -28794.98,
+        2420.2861
+      ],
+      "map": 22,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "FHR - Platinum",
+      "coordinates": [
+        35060.88,
+        184.57521,
+        1698.1677
+      ],
+      "map": 22,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "FHR - Rich Mithril",
+      "coordinates": [
+        37902.75,
+        20389.824,
+        2156.0994
+      ],
+      "map": 22,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FHR - Rich Platinum",
+      "coordinates": [
+        -19028.348,
+        12184.69,
+        2340.3044
+      ],
+      "map": 22,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "GMV - Garden Nodes",
+      "coordinates": [
+        -12788.343,
+        15859.214,
+        1247.7529
+      ],
+      "map": 1330,
+      "tooltip": "Safe - Requires Movement - Cabbage, Lettuce, Potatoes, Strawberries, Sugar Pumpkins, Zucchini"
+    },
+    {
+      "name": "IRM - Rich Platinum 1",
+      "coordinates": [
+        22230.89,
+        45891.293,
+        -8.910542
+      ],
+      "map": 25,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "IRM - Rich Platinum 2",
+      "coordinates": [
+        -9850.896,
+        44339.61,
+        796.90063
+      ],
+      "map": 25,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "IRM - Sugar Pumpkin",
+      "coordinates": [
+        -16508.463,
+        28373.436,
+        1443.112
+      ],
+      "map": 25,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "POA - Potato",
+      "coordinates": [
+        29214.115,
+        -21811.104,
+        842.2123
+      ],
+      "map": 19,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "POA - Rich Copper 1",
+      "coordinates": [
+        9951.824,
+        -13255.641,
+        -649.14703
+      ],
+      "map": 19,
+      "tooltip": "Danger - Aggressive Mob (Underwater)"
+    },
+    {
+      "name": "POA - Rich Copper 2",
+      "coordinates": [
+        -32674.795,
+        -18653.342,
+        2244.1042
+      ],
+      "map": 19,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "BFF - Rich Mithril",
+      "coordinates": [
+        -15409.66,
+        -3551.7075,
+        1345.1968
+      ],
+      "map": 1178,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DNC - Rich Iron",
+      "coordinates": [
+        -5916.7383,
+        21570.0,
+        1552.012
+      ],
+      "map": 26,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DNC - Cabbage",
+      "coordinates": [
+        13989.763,
+        9694.561,
+        4266.484
+      ],
+      "map": 26,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "DNC - Rich Gold",
+      "coordinates": [
+        -13001.288,
+        -13697.358,
+        4600.379
+      ],
+      "map": 26,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FGS - Butternut Squash",
+      "coordinates": [
+        25258.098,
+        -23196.754,
+        488.22498
+      ],
+      "map": 30,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "FGS - Rich Mithril 1 ",
+      "coordinates": [
+        -1977.0446,
+        6613.768,
+        -2164.482
+      ],
+      "map": 30,
+      "tooltip": "Danger - Aggressive Mobs (Underwater)"
+    },
+    {
+      "name": "FGS - Rich Mithril 2",
+      "coordinates": [
+        -22271.066,
+        -24670.496,
+        -4985.258
+      ],
+      "map": 30,
+      "tooltip": "Danger - Aggressive Mobs (Underwater)"
+    },
+    {
+      "name": "LNP - Rich Iron",
+      "coordinates": [
+        -5061.7017,
+        55110.254,
+        4948.982
+      ],
+      "map": 27,
+      "tooltip": null
+    },
+    {
+      "name": "LNP - Rich Silver",
+      "coordinates": [
+        -20377.158,
+        25223.426,
+        3248.704
+      ],
+      "map": 27,
+      "tooltip": "Danger - Annoying Aggressive CC Mobs"
+    },
+    {
+      "name": "LNP - Grapes",
+      "coordinates": [
+        -18121.91,
+        -38240.78,
+        1263.0564
+      ],
+      "map": 27,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "LNP - Rich Gold",
+      "coordinates": [
+        -15658.046,
+        -53702.445,
+        2304.151
+      ],
+      "map": 27,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "SDD - Rich Iron",
+      "coordinates": [
+        28825.77,
+        -3850.8706,
+        1469.8761
+      ],
+      "map": 31,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "SDD - Strawberry",
+      "coordinates": [
+        30327.99,
+        -17346.062,
+        4526.625
+      ],
+      "map": 31,
+      "tooltip": "Danger - Aggressive Birdy"
+    },
+    {
+      "name": "SDD - Rich Silver",
+      "coordinates": [
+        -2447.1855,
+        -10657.721,
+        601.4004
+      ],
+      "map": 31,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "TLF - Rich Platinum",
+      "coordinates": [
+        -22230.412,
+        14137.249,
+        16.229397
+      ],
+      "map": 29,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "TLF - Cauliflower",
+      "coordinates": [
+        -22435.188,
+        15051.627,
+        1590.7373
+      ],
+      "map": 29,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "BTC - Rich Platinum",
+      "coordinates": [
+        1086.1418,
+        -15907.494,
+        2884.3584
+      ],
+      "map": 73,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "BTC - Sugar Pumpkins",
+      "coordinates": [
+        24606.01,
+        544.20746,
+        2669.865
+      ],
+      "map": 73,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "GDF - Rich Iron",
+      "coordinates": [
+        34920.516,
+        -16917.191,
+        2552.2378
+      ],
+      "map": 24,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "GDF - Rich Silver",
+      "coordinates": [
+        46017.848,
+        -19777.324,
+        3031.81
+      ],
+      "map": 24,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "GDF - Spinach",
+      "coordinates": [
+        -2034.521,
+        23130.33,
+        1645.4474
+      ],
+      "map": 24,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "HTH - Rich Gold",
+      "coordinates": [
+        37354.082,
+        23362.014,
+        7280.875
+      ],
+      "map": 17,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "HTH - Rich Iron",
+      "coordinates": [
+        -34322.984,
+        -5554.12,
+        5128.8623
+      ],
+      "map": 17,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "HTH - Cabbage",
+      "coordinates": [
+        -27781.572,
+        -5269.401,
+        10.929546
+      ],
+      "map": 17,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "KSH - Rich Iron or Silver 1",
+      "coordinates": [
+        -43401.19,
+        879.6341,
+        1667.1879
+      ],
+      "map": 23,
+      "tooltip": "Danger - Aggressive Mobs (This Node changes can either be Silver or Iron)"
+    },
+    {
+      "name": "KSH - Rich Iron or Silver 2 ",
+      "coordinates": [
+        31257.086,
+        -20360.002,
+        1342.8345
+      ],
+      "map": 23,
+      "tooltip": "Danger - Champion Spawn Area (This Node changes can either be Silver or Iron)"
+    },
+    {
+      "name": "KSH - Strawberry",
+      "coordinates": [
+        41775.008,
+        -19083.602,
+        3513.757
+      ],
+      "map": 23,
+      "tooltip": "Danger - Aggressive Mobs "
+    },
+    {
+      "name": "QND - Rich Copper 1",
+      "coordinates": [
+        2761.4146,
+        -4312.052,
+        885.9287
+      ],
+      "map": 15,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "QND - Rich Copper 2",
+      "coordinates": [
+        27243.936,
+        -25290.693,
+        2311.7205
+      ],
+      "map": 15,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "BWL - Spinach",
+      "coordinates": [
+        39199.63,
+        -28614.074,
+        4934.295
+      ],
+      "map": 54,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "BWL - Rich Iron",
+      "coordinates": [
+        -29324.566,
+        19926.047,
+        1377.4806
+      ],
+      "map": 54,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "BWL - Rich Silver",
+      "coordinates": [
+        -14451.818,
+        27419.275,
+        1025.9216
+      ],
+      "map": 54,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "BWL - Clams",
+      "coordinates": [
+        22723.266,
+        -18963.451,
+        -931.78613
+      ],
+      "map": 54,
+      "tooltip": "Danger - Aggressive Mobs (Underwater)"
+    },
+    {
+      "name": "CDF - Rich Copper 1",
+      "coordinates": [
+        -293.28867,
+        14728.756,
+        389.9688
+      ],
+      "map": 34,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "CDF - Rich Copper 2",
+      "coordinates": [
+        -8924.466,
+        47767.895,
+        -1.5675967
+      ],
+      "map": 34,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "CDF - Lettuce ",
+      "coordinates": [
+        9347.926,
+        47133.145,
+        118.49882
+      ],
+      "map": 34,
+      "tooltip": "Danger - Aggressive Mobs (Requires minimal running)"
+    },
+    {
+      "name": "MTP - Potato",
+      "coordinates": [
+        16044.928,
+        -15014.133,
+        1874.2604
+      ],
+      "map": 35,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "MMS - Artichoke",
+      "coordinates": [
+        8542.346,
+        -6346.233,
+        1499.917
+      ],
+      "map": 39,
+      "tooltip": "Danger - Aggressive Mob"
+    },
+    {
+      "name": "MMS - Rich Platinum 1",
+      "coordinates": [
+        29360.967,
+        3562.667,
+        -1646.3219
+      ],
+      "map": 39,
+      "tooltip": "Safe ( Also has Ranger Juvenile Blue Jellyfish )"
+    },
+    {
+      "name": "MMS - Rich Platinum 2",
+      "coordinates": [
+        -42411.78,
+        12032.75,
+        2213.5967
+      ],
+      "map": 39,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "SFF - Cauliflower",
+      "coordinates": [
+        -20992.92,
+        20555.443,
+        3434.3064
+      ],
+      "map": 53,
+      "tooltip": "Safe ? Maybe "
+    },
+    {
+      "name": "SFF - Rich Platinum",
+      "coordinates": [
+        -21279.176,
+        11505.033,
+        2012.1658
+      ],
+      "map": 53,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "CRS - Rich Mithril 1",
+      "coordinates": [
+        -10295.396,
+        -4578.7437,
+        -2768.8013
+      ],
+      "map": 62,
+      "tooltip": "Danger - Aggressive Mobs (Underwater)"
+    },
+    {
+      "name": "CRS - Rich Mithril 2",
+      "coordinates": [
+        12499.299,
+        -45080.062,
+        -1687.5736
+      ],
+      "map": 62,
+      "tooltip": "Safe Kinda , (Underwater)"
+    },
+    {
+      "name": "MCL - Elderwood",
+      "coordinates": [
+        33297.652,
+        -17762.03,
+        2540.4348
+      ],
+      "map": 65,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "MCL - Rich Mithril 1",
+      "coordinates": [
+        44254.42,
+        17772.053,
+        640.4441
+      ],
+      "map": 65,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "MCL - Rich Mithril 2",
+      "coordinates": [
+        -33024.668,
+        6155.6616,
+        317.7459
+      ],
+      "map": 65,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "SOD - Artichoke",
+      "coordinates": [
+        32379.785,
+        27083.85,
+        2309.7659
+      ],
+      "map": 51,
+      "tooltip": "Danger - Aggressive mobs"
+    },
+    {
+      "name": "SOD - Rich Mithril",
+      "coordinates": [
+        -25750.998,
+        26190.516,
+        -5424.583
+      ],
+      "map": 51,
+      "tooltip": "Danger - Aggressive mobs (Underwater)"
+    },
+    {
+      "name": "SOD - Elderwood",
+      "coordinates": [
+        -13030.881,
+        -24791.207,
+        912.1693
+      ],
+      "map": 51,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "BSF - Flax",
+      "coordinates": [
+        7887.989,
+        -186.45425,
+        31522.518
+      ],
+      "map": 1165,
+      "tooltip": "Danger - Aggressive Mobs ( Use updrafts to reach other flax spots)"
+    },
+    {
+      "name": "ERB - Seaweed",
+      "coordinates": [
+        -3337.0986,
+        -36435.242,
+        -2873.8672
+      ],
+      "map": 1175,
+      "tooltip": "Safe (Underwater)"
+    },
+    {
+      "name": "TD - Flax",
+      "coordinates": [
+        -12605.572,
+        -4604.0347,
+        13289.95
+      ],
+      "map": 1045,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "VB - Flax",
+      "coordinates": [
+        28594.176,
+        16453.22,
+        577.091
+      ],
+      "map": 1052,
+      "tooltip": "Safe"
+    },
+    {
+      "name": "DT - Garden Nodes",
+      "coordinates": [
+        -20442.057,
+        -609.57715,
+        358.60443
+      ],
+      "map": 988,
+      "tooltip": "Safe - Carrot, Lettuce, Cabbage & Cactus"
+    },
+    {
+      "name": "DT - Quartz 1",
+      "coordinates": [
+        12104.255,
+        -16026.513,
+        1843.14
+      ],
+      "map": 988,
+      "tooltip": "Danger - Aggressive mobs"
+    },
+    {
+      "name": "DT - Quartz 2",
+      "coordinates": [
+        11550.589,
+        -18067.504,
+        3164.189
+      ],
+      "map": 988,
+      "tooltip": "Danger - Aggressive Mobs"
+    },
+    {
+      "name": "STP - Garden Nodes",
+      "coordinates": [
+        -4384.038,
+        -18442.018,
+        1902.3942
+      ],
+      "map": 1442,
+      "tooltip": "Safe - Cabbage, Carrot, Flax, Thyme, Parsley, Lotus, Potatoes, Soybeans, Sugar Pumpkins, Zucchini"
+    },
+    {
+      "name": "DCM - Flax",
+      "coordinates": [
+        21937.47,
+        -18736.72,
+        4285.0903
+      ],
+      "map": 1195,
+      "tooltip": "Danger - Aggressive Mob"
+    }
+  ]
+} 
