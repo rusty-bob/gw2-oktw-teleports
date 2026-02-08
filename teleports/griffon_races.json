@@ -1,0 +1,95 @@
+{
+  "name": "Griffon Races",
+  "teleports": [
+    {
+      "name": "Crystal Oasis Master",
+      "coordinates": [
+        -44056.25,
+        18596.338,
+        6616.6963
+      ],
+      "map": 1210
+    },
+    {
+      "name": "Crystal Oasis Expert",
+      "coordinates": [
+        30865.72,
+        4816.4756,
+        8689.39
+      ],
+      "map": 1210
+    },
+    {
+      "name": "Desert Highlands Expert",
+      "coordinates": [
+        -16457.143,
+        -2300.409,
+        10897.975
+      ],
+      "map": 1211
+    },
+    {
+      "name": "Desert Highlands Master",
+      "coordinates": [
+        -49702.18,
+        18735.18,
+        22344.838
+      ],
+      "map": 1211
+    },
+    {
+      "name": "Elon Riverlands Expert",
+      "coordinates": [
+        -7615.682,
+        -898.555,
+        4957.441
+      ],
+      "map": 1228
+    },
+    {
+      "name": "Elon Riverlands Master",
+      "coordinates": [
+        18676.416,
+        -19404.979,
+        3706.3557
+      ],
+      "map": 1228
+    },
+    {
+      "name": "The Desolation Expert",
+      "coordinates": [
+        12393.665,
+        -6694.8257,
+        16521.025
+      ],
+      "map": 1226
+    },
+    {
+      "name": "The Desolation Master",
+      "coordinates": [
+        -24475.46,
+        -20247.736,
+        13631.23
+      ],
+      "map": 1226
+    },
+    {
+      "name": "Domain of Vabbi Expert",
+      "coordinates": [
+        17388.71,
+        -9068.174,
+        7876.578
+      ],
+      "map": 1248
+    },
+    {
+      "name": "Domain of Vabbi Master",
+      "coordinates": [
+        15133.627,
+        11369.375,
+        11350.385
+      ],
+      "map": 1248
+    }
+  ]
+}
