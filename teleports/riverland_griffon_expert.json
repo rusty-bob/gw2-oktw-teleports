@@ -1,0 +1,85 @@
+{
+  "name": "Riverlands Griffon Expert",
+  "teleports": [
+    {
+      "name": "PLAY",
+      "coordinates": [
+        -7623.886,
+        -898.44257,
+        4958.0596
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 1",
+      "coordinates": [
+        -7216.9585,
+        -2286.2283,
+        3633.8772
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 2",
+      "coordinates": [
+        -5790.2324,
+        -6303.031,
+        3331.2483
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 3",
+      "coordinates": [
+        -8007.9497,
+        -9919.573,
+        3755.6267
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 4",
+      "coordinates": [
+        -11423.685,
+        -11434.07,
+        2306.725
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 5",
+      "coordinates": [
+        -16342.56,
+        -11700.26,
+        2220.3557
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 6",
+      "coordinates": [
+        -20592.61,
+        -8983.36,
+        1053.2495
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 7",
+      "coordinates": [
+        -21806.578,
+        -5579.188,
+        1725.2589
+      ],
+      "map": 1228,
+      "tooltip": null
+    }
+  ]
+}
