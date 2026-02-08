@@ -1,0 +1,395 @@
+{
+  "name": "Daily Repeat HP - Easy & Hard",
+  "teleports": [
+    {
+      "name": "Desert Highlands: Yandra Stonetusk ",
+      "coordinates": [
+        15408.934,
+        8844.398,
+        9336.819
+      ],
+      "map": 1211,
+      "tooltip": "Desert Highlands"
+    },
+    {
+      "name": "Desert Highlands: Dusty Bones",
+      "coordinates": [
+        3380.0376,
+        -10493.086,
+        7196.12
+      ],
+      "map": 1211,
+      "tooltip": "Desert Highlands"
+    },
+    {
+      "name": "Desert Highlands: Fortunes Vales",
+      "coordinates": [
+        -47151.348,
+        10200.743,
+        13424.067
+      ],
+      "map": 1211,
+      "tooltip": "Desert Highlands"
+    },
+    {
+      "name": "Desert Highlands: Powerful Punch",
+      "coordinates": [
+        44862.047,
+        1854.7766,
+        10566.839
+      ],
+      "map": 1211,
+      "tooltip": "Desert Highlands"
+    },
+    {
+      "name": "Crystal Oasis: Confessor Opeyemi",
+      "coordinates": [
+        -18863.332,
+        -26181.008,
+        683.1006
+      ],
+      "map": 1210,
+      "tooltip": "Crystal Oasis"
+    },
+    {
+      "name": "Crystal Oasis: Bottle Djinn",
+      "coordinates": [
+        -9812.877,
+        15185.346,
+        1341.2827
+      ],
+      "map": 1210,
+      "tooltip": "Crystal Oasis"
+    },
+    {
+      "name": "Crystal Oasis: Abandoned Forge",
+      "coordinates": [
+        -34594.99,
+        26149.814,
+        1440.0841
+      ],
+      "map": 1210,
+      "tooltip": "Crystal Oasis"
+    },
+    {
+      "name": "The Desolation: Broken Egg",
+      "coordinates": [
+        -37962.31,
+        38205.54,
+        250.075
+      ],
+      "map": 1226,
+      "tooltip": "The Desolation"
+    },
+    {
+      "name": "The Desolation: Jacaranda",
+      "coordinates": [
+        -29832.178,
+        -43181.137,
+        9527.671
+      ],
+      "map": 1226,
+      "tooltip": "The Desolation"
+    },
+    {
+      "name": "The Desolation: Shanna",
+      "coordinates": [
+        26900.912,
+        -8093.876,
+        11428.387
+      ],
+      "map": 1226,
+      "tooltip": "The Desolation"
+    },
+    {
+      "name": "The Desolation: Awakened Wanderer",
+      "coordinates": [
+        17267.275,
+        16586.984,
+        10737.318
+      ],
+      "map": 1226,
+      "tooltip": "The Desolation"
+    },
+    {
+      "name": "Elon Riverlands: Generals Grave",
+      "coordinates": [
+        -2239.5613,
+        8027.541,
+        2978.9565
+      ],
+      "map": 1228,
+      "tooltip": "Elon Riverlands"
+    },
+    {
+      "name": "Elon Riverlands: Lorashi",
+      "coordinates": [
+        -14294.172,
+        -11726.358,
+        136.16803
+      ],
+      "map": 1228,
+      "tooltip": "Elon Riverlands"
+    },
+    {
+      "name": "Elon Riverlands: Branded Hero",
+      "coordinates": [
+        41804.26,
+        35234.93,
+        3166.3723
+      ],
+      "map": 1228,
+      "tooltip": "Elon Riverlands"
+    },
+    {
+      "name": "Elon Riverlands: Sand Lion",
+      "coordinates": [
+        -38673.953,
+        31904.498,
+        2908.7412
+      ],
+      "map": 1228,
+      "tooltip": "Elon Riverlands"
+    },
+    {
+      "name": "Vabbi: 3 Masters",
+      "coordinates": [
+        4369.837,
+        -11283.704,
+        915.2254
+      ],
+      "map": 1248,
+      "tooltip": "Domain of Vabbi"
+    },
+    {
+      "name": "Vabbi: Fight the Family",
+      "coordinates": [
+        -31730.416,
+        -27769.06,
+        7910.0527
+      ],
+      "map": 1248,
+      "tooltip": "Domain of Vabbi"
+    },
+    {
+      "name": "Vabbi: Talk then fight dvourer",
+      "coordinates": [
+        45810.027,
+        12352.284,
+        3284.1973
+      ],
+      "map": 1248,
+      "tooltip": "Domain of Vabbi"
+    },
+    {
+      "name": "Seitung Province: Ring the Bell",
+      "coordinates": [
+        15507.403,
+        18379.088,
+        1428.9264
+      ],
+      "map": 1442,
+      "tooltip": "Seitung Province"
+    },
+    {
+      "name": "Seitung Province: Fight Robot",
+      "coordinates": [
+        -20106.93,
+        -14571.368,
+        1786.7639
+      ],
+      "map": 1442,
+      "tooltip": "Seitung Province"
+    },
+    {
+      "name": "Kaineng: Baedel HIll",
+      "coordinates": [
+        -21391.84,
+        7383.7715,
+        4730.6294
+      ],
+      "map": 1438,
+      "tooltip": "New Kaineng City"
+    },
+    {
+      "name": "Kaineng: Grub Lane",
+      "coordinates": [
+        40994.734,
+        -90.71519,
+        474.52975
+      ],
+      "map": 1438,
+      "tooltip": "New Kaineng City"
+    },
+    {
+      "name": "Arborstone",
+      "coordinates": [
+        -30793.852,
+        25225.582,
+        380.50668
+      ],
+      "map": 1428,
+      "tooltip": "Arborstone"
+    },
+    {
+      "name": "Verdant Brink: Poison frog +3 mobs",
+      "coordinates": [
+        -27818.258,
+        -13932.873,
+        14242.306
+      ],
+      "map": 1052,
+      "tooltip": "Verdant Brink"
+    },
+    {
+      "name": "Verdant Brink: Vampire Bat - VERY tough",
+      "coordinates": [
+        8015.2104,
+        8590.632,
+        22886.312
+      ],
+      "map": 1052,
+      "tooltip": "Verdant Brink"
+    },
+    {
+      "name": "Verdant Brink: Night Blossom",
+      "coordinates": [
+        23175.795,
+        -1425.3536,
+        350.59412
+      ],
+      "map": 1052,
+      "tooltip": "Verdant Brink"
+    },
+    {
+      "name": "Verdant Brink: Security Golem",
+      "coordinates": [
+        -26074.096,
+        -5743.9043,
+        21956.484
+      ],
+      "map": 1052,
+      "tooltip": "Verdant Brink"
+    },
+    {
+      "name": "Auric Basin: Mushroom King - VERY hard",
+      "coordinates": [
+        -15948.286,
+        22215.42,
+        13013.991
+      ],
+      "map": 1043,
+      "tooltip": "Auric Basin"
+    },
+    {
+      "name": "Auric Basin: Ancient Golem",
+      "coordinates": [
+        -21729.682,
+        -12054.288,
+        8249.341
+      ],
+      "map": 1043,
+      "tooltip": "Auric Basin"
+    },
+    {
+      "name": "Auric Basin: Tarnished Sage",
+      "coordinates": [
+        -299.01846,
+        4799.421,
+        817.39185
+      ],
+      "map": 1043,
+      "tooltip": "Auric Basin"
+    },
+    {
+      "name": "Auric Basin: Modrem FLower",
+      "coordinates": [
+        23005.545,
+        -15154.659,
+        12400.036
+      ],
+      "map": 1043,
+      "tooltip": "Auric Basin"
+    },
+    {
+      "name": "Auric Basin: Eggs",
+      "coordinates": [
+        10601.196,
+        -32593.488,
+        9077.843
+      ],
+      "map": 1043,
+      "tooltip": "Auric Basin"
+    },
+    {
+      "name": "Auric Basin: Arrowhead",
+      "coordinates": [
+        5552.3604,
+        15465.669,
+        12121.329
+      ],
+      "map": 1043,
+      "tooltip": "Auric Basin"
+    },
+    {
+      "name": "Tangled Depths: Bloom Champ",
+      "coordinates": [
+        -32576.01,
+        -17587.709,
+        2379.6245
+      ],
+      "map": 1045,
+      "tooltip": "Tangled Depths"
+    },
+    {
+      "name": "Tangled Depths: Spider Eggs",
+      "coordinates": [
+        -22942.025,
+        -12156.149,
+        11134.571
+      ],
+      "map": 1045,
+      "tooltip": "Tangled Depths"
+    },
+    {
+      "name": "Tangled Depths: Champ Chak",
+      "coordinates": [
+        -18802.729,
+        -20004.695,
+        250.0103
+      ],
+      "map": 1045,
+      "tooltip": "Tangled Depths"
+    },
+    {
+      "name": "Tangled Depths: Campsite",
+      "coordinates": [
+        -8685.595,
+        13714.617,
+        9211.37
+      ],
+      "map": 1045,
+      "tooltip": "Tangled Depths"
+    },
+    {
+      "name": "Tangled Depths: Mushroom Champ",
+      "coordinates": [
+        12050.253,
+        -2787.5022,
+        578.781
+      ],
+      "map": 1045,
+      "tooltip": "Tangled Depths"
+    },
+    {
+      "name": "Tangled Depths: Troll",
+      "coordinates": [
+        -28110.361,
+        -1949.4175,
+        3059.8645
+      ],
+      "map": 1045,
+      "tooltip": "Tangled Depths"
+    }
+  ]
+}
