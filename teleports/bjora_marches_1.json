@@ -1,0 +1,135 @@
+{
+  "name": "Bjora Marches 1",
+  "teleports": [
+    {
+      "name": "Norn Chest 1",
+      "coordinates": [
+        45963.246,
+        -18359.96,
+        4293.086
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 2",
+      "coordinates": [
+        35739.15,
+        2429.0884,
+        2376.247
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 3",
+      "coordinates": [
+        32850.19,
+        6236.4785,
+        4440.009
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 4",
+      "coordinates": [
+        26557.111,
+        2929.2583,
+        5254.781
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 5",
+      "coordinates": [
+        25453.54,
+        13746.376,
+        5115.288
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 6",
+      "coordinates": [
+        36452.0,
+        16161.625,
+        5140.4033
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Roller Beetle Cave Chest",
+      "coordinates": [
+        46964.23,
+        5320.368,
+        2064.115
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Bottom Chest ",
+      "coordinates": [
+        24060.36,
+        15454.7705,
+        1800.8585
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Bottom Chest 2",
+      "coordinates": [
+        30542.172,
+        19480.096,
+        5091.784
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Bottom Chest 3",
+      "coordinates": [
+        42698.945,
+        17355.854,
+        5346.673
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Bottom Chest 4",
+      "coordinates": [
+        30191.588,
+        -9927.425,
+        5491.659
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Bottom Chest 5",
+      "coordinates": [
+        10394.833,
+        -5561.8057,
+        6174.5586
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Bottom Chest 6",
+      "coordinates": [
+        22926.121,
+        -6964.638,
+        4367.338
+      ],
+      "map": 1343,
+      "tooltip": null
+    }
+  ]
+}
