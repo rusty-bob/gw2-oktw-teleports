@@ -1,0 +1,345 @@
+{
+  "name": "SWIFT SKIFFS RACE",
+  "teleports": [
+    {
+      "name": "Time Trial",
+      "coordinates": [
+        -9517.252,
+        9810.349,
+        40.807373
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 1",
+      "coordinates": [
+        -10159.2295,
+        11991.388,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 2",
+      "coordinates": [
+        -12145.215,
+        14264.995,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 3",
+      "coordinates": [
+        -14730.8545,
+        15309.354,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 4",
+      "coordinates": [
+        -18593.781,
+        18650.465,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 5",
+      "coordinates": [
+        -20917.521,
+        19876.727,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 6",
+      "coordinates": [
+        -23504.1,
+        19878.184,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 7",
+      "coordinates": [
+        -25432.166,
+        19830.736,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 8",
+      "coordinates": [
+        -27227.01,
+        18917.785,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 9",
+      "coordinates": [
+        -27679.127,
+        16222.978,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 10",
+      "coordinates": [
+        -26863.615,
+        14262.527,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 11",
+      "coordinates": [
+        -24172.3,
+        11917.22,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 12",
+      "coordinates": [
+        -21182.088,
+        10592.853,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 13",
+      "coordinates": [
+        -17871.408,
+        9455.625,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 14",
+      "coordinates": [
+        -15327.113,
+        8834.337,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 15",
+      "coordinates": [
+        -13297.097,
+        6979.873,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 16",
+      "coordinates": [
+        -12804.758,
+        5029.694,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 17",
+      "coordinates": [
+        -13143.635,
+        2735.1382,
+        -42.0
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 18",
+      "coordinates": [
+        -13312.556,
+        612.42664,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 19",
+      "coordinates": [
+        -12870.474,
+        -1877.3796,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 20",
+      "coordinates": [
+        -12721.868,
+        -4609.55,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 21",
+      "coordinates": [
+        -13226.06,
+        -6659.266,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 22",
+      "coordinates": [
+        -13432.004,
+        -9023.329,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 23",
+      "coordinates": [
+        -12576.495,
+        -10487.037,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 24",
+      "coordinates": [
+        -11059.181,
+        -9056.261,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 25",
+      "coordinates": [
+        -11458.534,
+        -6835.2334,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 26",
+      "coordinates": [
+        -12208.742,
+        -3233.6716,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 27",
+      "coordinates": [
+        -12541.391,
+        -949.0556,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 28",
+      "coordinates": [
+        -12256.435,
+        1278.2863,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 29",
+      "coordinates": [
+        -11549.534,
+        2354.7637,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 30",
+      "coordinates": [
+        -10148.241,
+        3525.1145,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 31",
+      "coordinates": [
+        -8855.529,
+        5156.457,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 32",
+      "coordinates": [
+        -8034.449,
+        6834.3457,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 33",
+      "coordinates": [
+        -8597.975,
+        9656.981,
+        -41.99969
+      ],
+      "map": 1442,
+      "tooltip": null
+    }
+  ]
+}
