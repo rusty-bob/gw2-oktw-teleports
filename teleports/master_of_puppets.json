@@ -1,0 +1,215 @@
+{
+  "name": "Master of Puppets",
+  "teleports": [
+    {
+      "name": "Teleport 1",
+      "coordinates": [
+        -1541.8494,
+        11536.08,
+        1240.6482
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 2",
+      "coordinates": [
+        2020.0602,
+        8020.1875,
+        1085.4569
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 3",
+      "coordinates": [
+        6727.296,
+        2705.7246,
+        1614.1816
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 4",
+      "coordinates": [
+        3323.6248,
+        3432.405,
+        1614.3896
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 5",
+      "coordinates": [
+        2204.3674,
+        7877.2974,
+        1045.5873
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 6",
+      "coordinates": [
+        2287.9795,
+        2142.5562,
+        1256.5343
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 7",
+      "coordinates": [
+        6562.511,
+        2379.5132,
+        1577.7903
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 8",
+      "coordinates": [
+        3507.7524,
+        4144.043,
+        1216.6367
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 9",
+      "coordinates": [
+        5315.13,
+        353.206,
+        1596.1422
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 10",
+      "coordinates": [
+        2763.755,
+        2284.3052,
+        1613.9541
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 11",
+      "coordinates": [
+        4888.059,
+        857.9798,
+        1612.2661
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 12",
+      "coordinates": [
+        3998.6316,
+        5274.6045,
+        1628.7786
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 13",
+      "coordinates": [
+        5037.0586,
+        4379.711,
+        929.7683
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 14",
+      "coordinates": [
+        2887.6,
+        3164.18,
+        931.5626
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 15",
+      "coordinates": [
+        2494.8613,
+        1642.2432,
+        1615.6029
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 16",
+      "coordinates": [
+        2634.7725,
+        3443.3699,
+        1617.1248
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 17",
+      "coordinates": [
+        2302.47,
+        1801.7781,
+        921.2636
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 18",
+      "coordinates": [
+        3884.73,
+        5179.82,
+        1267.9447
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 19",
+      "coordinates": [
+        6217.66,
+        3242.37,
+        1260.0321
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 20",
+      "coordinates": [
+        -1795.03,
+        9571.93,
+        1320.8934
+      ],
+      "map": 1191,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 21",
+      "coordinates": [
+        -2487.6733,
+        3911.046,
+        1232.4624
+      ],
+      "map": 1191,
+      "tooltip": null
+    }
+  ]
+}
