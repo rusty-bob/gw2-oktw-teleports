@@ -1,0 +1,255 @@
+{
+  "name": "Toxic Krait Historian",
+  "teleports": [
+    {
+      "name": "Kessex Hills 1",
+      "coordinates": [
+        -11847.555,
+        -1378.3123,
+        -1901.9108
+      ],
+      "map": 23,
+      "tooltip": null
+    },
+    {
+      "name": "Kessex Hills 2",
+      "coordinates": [
+        -15187.414,
+        -8728.3125,
+        -4060.2864
+      ],
+      "map": 23,
+      "tooltip": null
+    },
+    {
+      "name": "Kessex Hills 3",
+      "coordinates": [
+        -4978.8877,
+        -6904.777,
+        -457.1008
+      ],
+      "map": 23,
+      "tooltip": null
+    },
+    {
+      "name": "Kessex Hills 4",
+      "coordinates": [
+        5747.794,
+        -13378.964,
+        -1918.3899
+      ],
+      "map": 23,
+      "tooltip": null
+    },
+    {
+      "name": "Gendarran Fields 1",
+      "coordinates": [
+        -16412.629,
+        -17826.889,
+        -676.74194
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Gendarran Fields 2",
+      "coordinates": [
+        15372.88,
+        5411.239,
+        -1198.8417
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Gendarran Fields 3",
+      "coordinates": [
+        -9410.3545,
+        23217.016,
+        -0.29423574
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Gendarran Fields 4",
+      "coordinates": [
+        29356.24,
+        -22841.291,
+        -187.73674
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Bloodtide Coast 1",
+      "coordinates": [
+        -16398.46,
+        26012.482,
+        -135.62962
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Bloodtide Coast 2",
+      "coordinates": [
+        -5724.0054,
+        -1048.1423,
+        -4342.6704
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Bloodtide Coast 3",
+      "coordinates": [
+        -4226.577,
+        -23223.672,
+        -8918.509
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Bloodtide Coast 4",
+      "coordinates": [
+        6230.794,
+        -33411.484,
+        -459.3371
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Caledon Forest 1",
+      "coordinates": [
+        21044.479,
+        38575.805,
+        -1370.5288
+      ],
+      "map": 34,
+      "tooltip": null
+    },
+    {
+      "name": "Caledon Forest 2",
+      "coordinates": [
+        14443.307,
+        91.37456,
+        -1659.2697
+      ],
+      "map": 34,
+      "tooltip": null
+    },
+    {
+      "name": "Sparkfly Fen 1",
+      "coordinates": [
+        -22139.959,
+        -10332.432,
+        -1430.9686
+      ],
+      "map": 53,
+      "tooltip": null
+    },
+    {
+      "name": "Sparkfly Fen 2",
+      "coordinates": [
+        -13862.997,
+        264.23227,
+        -1606.0967
+      ],
+      "map": 53,
+      "tooltip": null
+    },
+    {
+      "name": "Sparkfly Fen 3",
+      "coordinates": [
+        -26063.61,
+        -22076.703,
+        -1628.6522
+      ],
+      "map": 53,
+      "tooltip": null
+    },
+    {
+      "name": "Sparkfly Fen 4",
+      "coordinates": [
+        -2380.8699,
+        28426.441,
+        -6576.118
+      ],
+      "map": 53,
+      "tooltip": null
+    },
+    {
+      "name": "Mount Maelstrom 1",
+      "coordinates": [
+        22004.69,
+        -8844.34,
+        2504.2244
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Mount Maelstrom 2",
+      "coordinates": [
+        30524.225,
+        -6326.336,
+        -1179.407
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Mount Maelstrom 3",
+      "coordinates": [
+        7126.4595,
+        -13641.506,
+        -1523.5826
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Mount Maelstrom 4",
+      "coordinates": [
+        30492.875,
+        -6271.283,
+        -1195.8528
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Mount Maelstrom 5",
+      "coordinates": [
+        18533.404,
+        -985.55817,
+        -4715.449
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Timberline Falls 1",
+      "coordinates": [
+        12460.858,
+        -18050.18,
+        -2331.276
+      ],
+      "map": 29,
+      "tooltip": null
+    },
+    {
+      "name": "Timberline Falls 2",
+      "coordinates": [
+        10248.285,
+        -20523.03,
+        2848.3306
+      ],
+      "map": 29,
+      "tooltip": null
+    }
+  ]
+}
