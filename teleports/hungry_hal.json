@@ -1,0 +1,285 @@
+{
+  "name": "Hungry Hal",
+  "teleports": [
+    {
+      "name": "Apple 1",
+      "coordinates": [
+        -24965.604,
+        -25998.275,
+        1178.1375
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 1",
+      "coordinates": [
+        -26882.592,
+        -8816.8545,
+        2659.0322
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 2",
+      "coordinates": [
+        -25087.316,
+        -28713.838,
+        2436.651
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 2",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 3",
+      "coordinates": [
+        -25370.305,
+        -30546.4,
+        2927.5425
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 3",
+      "coordinates": [
+        -26912.707,
+        -8813.005,
+        2661.8047
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 4",
+      "coordinates": [
+        -22416.703,
+        -31176.928,
+        2768.312
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 4",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 5",
+      "coordinates": [
+        -22328.96,
+        -31687.52,
+        2761.4849
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 5",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 6",
+      "coordinates": [
+        -25750.656,
+        -26022.336,
+        2076.2017
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 6",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 7",
+      "coordinates": [
+        -33956.48,
+        -17307.104,
+        1893.6031
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 7",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 8",
+      "coordinates": [
+        -34254.72,
+        -17208.832,
+        1899.2904
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 8",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 9",
+      "coordinates": [
+        -34495.68,
+        -16738.111,
+        984.0288
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 9",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 10",
+      "coordinates": [
+        -33973.957,
+        -16307.378,
+        718.94696
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 10",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 11",
+      "coordinates": [
+        -33000.0,
+        -17884.064,
+        1315.584
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 11",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 12",
+      "coordinates": [
+        -32815.04,
+        -18018.912,
+        1309.088
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 12",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 13",
+      "coordinates": [
+        -32658.43,
+        -18186.14,
+        1312.1024
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 13",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Apple 14",
+      "coordinates": [
+        -32815.04,
+        -18018.912,
+        1309.088
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Hal 14",
+      "coordinates": [
+        -26898.111,
+        -8818.4,
+        2660.2144
+      ],
+      "map": 1175,
+      "tooltip": null
+    }
+  ]
+}
