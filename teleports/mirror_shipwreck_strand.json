@@ -1,0 +1,565 @@
+{
+  "name": "Mirror Shipwreck Strand",
+  "teleports": [
+    {
+      "name": "mirror 1",
+      "coordinates": [
+        25814.55,
+        -24197.223,
+        1248.3591
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 1-1 (small)",
+      "coordinates": [
+        18945.762,
+        -17097.316,
+        1924.2019
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 1-2 (small)",
+      "coordinates": [
+        19073.662,
+        -14114.989,
+        357.82074
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 1-3 (small)",
+      "coordinates": [
+        7222.3237,
+        -21546.812,
+        1437.7373
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 1-4 (small)",
+      "coordinates": [
+        5683.776,
+        -29044.346,
+        2354.6748
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 1-5 (small)",
+      "coordinates": [
+        14867.737,
+        -33130.06,
+        48.823627
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 2",
+      "coordinates": [
+        12956.494,
+        -13616.376,
+        1410.9263
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 2-1 (small)",
+      "coordinates": [
+        2902.0198,
+        -9395.528,
+        1252.9121
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 2-2 (small)",
+      "coordinates": [
+        -343.72488,
+        -15723.669,
+        646.82025
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 2-3 (small)",
+      "coordinates": [
+        7458.3613,
+        -21309.355,
+        1482.4293
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 3",
+      "coordinates": [
+        -2342.2869,
+        -1852.6886,
+        1260.1229
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 3-1 (small)",
+      "coordinates": [
+        -2601.405,
+        3759.1692,
+        1128.8563
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 3-2 (small)",
+      "coordinates": [
+        8508.455,
+        10812.478,
+        477.17966
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 3-3 (small)",
+      "coordinates": [
+        13606.942,
+        -286.30066,
+        1506.032
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 3-4 (small)",
+      "coordinates": [
+        8116.874,
+        -7050.6133,
+        447.6467
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 4",
+      "coordinates": [
+        20773.863,
+        29713.742,
+        1830.0677
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-1 (small)",
+      "coordinates": [
+        19973.574,
+        31843.758,
+        1130.5583
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-2 (small)",
+      "coordinates": [
+        9418.343,
+        30117.373,
+        1619.4248
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-3 (small)",
+      "coordinates": [
+        7376.033,
+        20619.463,
+        1642.5751
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-4 (medium)",
+      "coordinates": [
+        13010.192,
+        19796.828,
+        1374.1163
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-5 (large)",
+      "coordinates": [
+        15116.471,
+        14304.796,
+        2093.0571
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-6 (small)",
+      "coordinates": [
+        9127.501,
+        12831.304,
+        59.63804
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 4-7 (medium)",
+      "coordinates": [
+        26180.969,
+        16811.93,
+        605.16315
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 5",
+      "coordinates": [
+        -3360.7053,
+        32984.594,
+        2528.8816
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 5-1 (small)",
+      "coordinates": [
+        4545.394,
+        31322.932,
+        2361.995
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 5-2 (small)",
+      "coordinates": [
+        454.68353,
+        21710.041,
+        29.896118
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 5-3 (medium)",
+      "coordinates": [
+        -4714.4927,
+        23119.543,
+        1199.4303
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 5-4 (small)",
+      "coordinates": [
+        -10874.601,
+        23948.676,
+        1488.018
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 5-5 (medium)",
+      "coordinates": [
+        -11329.16,
+        31549.594,
+        24.1143
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 6",
+      "coordinates": [
+        -18050.414,
+        28638.668,
+        2222.096
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 6-1 (small)",
+      "coordinates": [
+        -22947.215,
+        32719.178,
+        990.08044
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 6-2 (small)",
+      "coordinates": [
+        -15739.445,
+        23262.576,
+        38.542744
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 6-3 (small)",
+      "coordinates": [
+        -22472.816,
+        23364.227,
+        205.24094
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 7",
+      "coordinates": [
+        -12425.568,
+        7859.549,
+        2993.2705
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 7-1 (small)",
+      "coordinates": [
+        -14444.445,
+        14160.12,
+        3295.2896
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 7-2 (small)",
+      "coordinates": [
+        -21601.404,
+        16722.71,
+        1873.6869
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 7-3 (small)",
+      "coordinates": [
+        -19330.527,
+        9100.335,
+        5445.1655
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 7-4 (medium)",
+      "coordinates": [
+        -24004.35,
+        3603.76,
+        4822.3706
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 7-5 (medium)",
+      "coordinates": [
+        -16343.32,
+        -389.51434,
+        3779.241
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 7-6 (large)",
+      "coordinates": [
+        -8461.673,
+        -570.74097,
+        1061.8752
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 8",
+      "coordinates": [
+        -22533.562,
+        -6051.0728,
+        2912.2908
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-1 (medium)",
+      "coordinates": [
+        -5268.9326,
+        -2909.0334,
+        1473.1967
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-2 (small)",
+      "coordinates": [
+        -5010.761,
+        -8335.949,
+        171.97987
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-3 (small)",
+      "coordinates": [
+        -4621.5903,
+        -14738.327,
+        1204.6611
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-4 (medium)",
+      "coordinates": [
+        -12641.706,
+        -15946.172,
+        411.5145
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-5 (small)",
+      "coordinates": [
+        -20067.254,
+        -15203.605,
+        67.2
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-6 (small)",
+      "coordinates": [
+        -14966.744,
+        -7840.908,
+        146.71355
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 8-7 (large)",
+      "coordinates": [
+        -20669.959,
+        -16060.368,
+        4353.056
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "mirror 9",
+      "coordinates": [
+        -17487.164,
+        -19453.26,
+        4070.2673
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-1 (small)",
+      "coordinates": [
+        -5088.884,
+        -18591.834,
+        3197.0464
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-2 (small)",
+      "coordinates": [
+        -13772.409,
+        -22570.508,
+        27.094711
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-3 (large)",
+      "coordinates": [
+        -19188.943,
+        -23396.771,
+        218.7992
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-4 (small)",
+      "coordinates": [
+        -16861.162,
+        -28626.234,
+        279.62808
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-5 (medium)",
+      "coordinates": [
+        -17390.621,
+        -30880.666,
+        4639.9487
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-6 (small)",
+      "coordinates": [
+        -22151.488,
+        -25066.367,
+        4861.3833
+      ],
+      "map": 1595,
+      "tooltip": null
+    },
+    {
+      "name": "chest 9-7 (medium)",
+      "coordinates": [
+        -25119.234,
+        -20612.941,
+        4447.68
+      ],
+      "map": 1595,
+      "tooltip": null
+    }
+  ]
+}
