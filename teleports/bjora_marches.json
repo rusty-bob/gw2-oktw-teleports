@@ -1,0 +1,59 @@
+{
+  "name": "Bjora Marches",
+  "teleports": [
+    {
+      "name": "Chest, top location 1",
+      "coordinates": [
+        -7574.6826,
+        26604.31,
+        16447.87
+      ],
+      "map": 1343
+    },
+    {
+      "name": "Chest, top location 2",
+      "coordinates": [
+        -25477.662,
+        22745.53,
+        14855.086
+      ],
+      "map": 1343
+    },
+    {
+      "name": "Chest, top location 3",
+      "coordinates": [
+        -11960.713,
+        -11607.583,
+        13763.072
+      ],
+      "map": 1343
+    },
+    {
+      "name": "Meta chests (inside raven gate)",
+      "coordinates": [
+        3792.5862,
+        20098.975,
+        7532.2695
+      ],
+      "map": 1343
+    },
+    {
+      "name": "Meta chest area",
+      "coordinates": [
+        14305.044,
+        16166.4375,
+        8471.709
+      ],
+      "map": 1343
+    },
+    {
+      "name": "Drakkar chest area",
+      "coordinates": [
+        -39580.17,
+        -12008.903,
+        2203.2698
+      ],
+      "map": 1343
+    }
+  ]
+}
