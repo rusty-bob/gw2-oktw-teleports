@@ -1,0 +1,149 @@
+{
+  "name": "Core Tyria World Bosses",
+  "teleports": [
+    {
+      "name": "Svanir Chaman Chief",
+      "coordinates": [
+        9105.0,
+        20499.0,
+        3321.0
+      ],
+      "map": 28
+    },
+    {
+      "name": "Fire Elemental",
+      "coordinates": [
+        -2864.0,
+        35470.0,
+        1147.0
+      ],
+      "map": 35
+    },
+	{
+	  "name": "Shadow Behemoth",
+	  "coordinates": [
+		13042.0,
+		-24607.0,
+		272.0
+	  ],
+	  "map": 15
+	},
+	{
+	  "name": "Great Jungle Wurm",
+	  "coordinates": [
+		-15760.0,
+		38290.0,
+		19.0
+	  ],
+	  "map": 34
+	},
+	{
+	  "name": "Modniir Ulgoth",
+	  "coordinates": [
+		6789.0,
+		20368.0,
+		2517.0
+	  ],
+	  "map": 17
+	},
+	{
+	  "name": "Admiral Taidha Covington",
+	  "coordinates": [
+		-5666.0,
+		3548.0,
+		57.0
+	  ],
+	  "map": 73
+	},
+	{
+	  "name": "The Shatterer",
+	  "coordinates": [
+		-9251.0,
+		31788.0,
+		566.0
+	  ],
+	  "map": 20
+	},
+	{
+	  "name": "Megadestroyer",
+	  "coordinates": [
+		-640.0,
+		-12597.0,
+		3065.0
+	  ],
+	  "map": 39
+	},
+	{
+	  "name": "Inquest Golem Mark II",
+	  "coordinates": [
+		34479.0,
+		-6216.0,
+		7.0
+	  ],
+	  "map": 39
+	},
+	{
+	  "name": "Claw of Jormag",
+	  "coordinates": [
+		30183.0,
+		5464.0,
+		1143.0
+	  ],
+	  "map": 30
+	},
+	{
+	  "name": "Tequatl the Sunless",
+	  "coordinates": [
+		-15178.0,
+		-29773.0,
+		308.0
+	  ],
+	  "map": 53
+	},
+	{
+	  "name": "Triple Trouble",
+	  "coordinates": [
+		5985.0,
+		-3637.0,
+		348.0
+	  ],
+	  "map": 73
+	},
+	{
+	  "name": "Karka Queen spawn 1",
+	  "coordinates": [
+		25673.0,
+		-14692.0,
+		32.0
+	  ],
+	  "map": 873
+	},
+	{
+	  "name": "Karka Queen spawn 2",
+	  "coordinates": [
+		19103.0,
+		3701.0,
+		1152.0
+	  ],
+	  "map": 873
+	},
+	{
+	  "name": "Karka Queen spawn 3",
+	  "coordinates": [
+		910.0,
+		-13018.0,
+		908.0
+	  ],
+	  "map": 873
+	},
+	{
+	  "name": "Karka Queen spawn 4",
+	  "coordinates": [
+		7428.0,
+		535.0,
+		2140.0
+	  ],
+	  "map": 873
+	}
+  ]
+}
