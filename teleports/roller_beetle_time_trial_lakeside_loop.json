@@ -1,0 +1,325 @@
+{
+  "name": "Roller Beetle Time Trial:Lakeside Loop",
+  "teleports": [
+    {
+      "name": "TALK",
+      "coordinates": [
+        12185.159,
+        20151.455,
+        1361.046
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 1",
+      "coordinates": [
+        9428.977,
+        18907.375,
+        390.1305
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 2",
+      "coordinates": [
+        3008.3506,
+        18555.04,
+        184.17462
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 3",
+      "coordinates": [
+        -1448.442,
+        15897.592,
+        137.99934
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 4",
+      "coordinates": [
+        -4285.4854,
+        13543.212,
+        400.95233
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 5",
+      "coordinates": [
+        -6224.947,
+        10916.847,
+        42.065704
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 6",
+      "coordinates": [
+        -6438.8877,
+        5204.8257,
+        8.972492
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 7",
+      "coordinates": [
+        -7071.797,
+        1133.535,
+        570.11035
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 8",
+      "coordinates": [
+        -8599.452,
+        -813.5352,
+        1078.8751
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 9",
+      "coordinates": [
+        -10655.558,
+        -4182.2285,
+        765.8232
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 10",
+      "coordinates": [
+        -12006.908,
+        -9076.545,
+        315.1503
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 11",
+      "coordinates": [
+        -10842.531,
+        -13730.796,
+        306.91428
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 12",
+      "coordinates": [
+        -6632.492,
+        -17314.867,
+        222.71301
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 13",
+      "coordinates": [
+        -2090.4075,
+        -16500.797,
+        514.22314
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 14",
+      "coordinates": [
+        1491.7322,
+        -18169.729,
+        423.59695
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 15",
+      "coordinates": [
+        6601.946,
+        -18252.328,
+        183.74615
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 16",
+      "coordinates": [
+        11899.907,
+        -18422.812,
+        79.6315
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 17",
+      "coordinates": [
+        14755.127,
+        -17947.477,
+        459.83682
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 18",
+      "coordinates": [
+        17456.203,
+        -17376.057,
+        368.71054
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 19",
+      "coordinates": [
+        18333.338,
+        -12967.747,
+        249.4556
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 20",
+      "coordinates": [
+        19440.281,
+        -9195.586,
+        46.62238
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 21",
+      "coordinates": [
+        19377.914,
+        -6629.875,
+        12.230206
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 22",
+      "coordinates": [
+        19246.77,
+        -3650.6338,
+        344.52878
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 23",
+      "coordinates": [
+        23467.037,
+        -1098.0524,
+        326.91684
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 24",
+      "coordinates": [
+        24579.307,
+        1688.4923,
+        398.54236
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 25",
+      "coordinates": [
+        23661.568,
+        6213.788,
+        261.68085
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 26",
+      "coordinates": [
+        22391.127,
+        8278.89,
+        719.04767
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 27",
+      "coordinates": [
+        22842.191,
+        10552.701,
+        959.5971
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 28",
+      "coordinates": [
+        21599.877,
+        12527.039,
+        1068.1034
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 29",
+      "coordinates": [
+        18381.27,
+        14648.779,
+        1917.945
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 30",
+      "coordinates": [
+        14325.242,
+        17844.227,
+        62.719948
+      ],
+      "map": 24,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 31",
+      "coordinates": [
+        11571.913,
+        18312.54,
+        462.22934
+      ],
+      "map": 24,
+      "tooltip": null
+    }
+  ]
+}
