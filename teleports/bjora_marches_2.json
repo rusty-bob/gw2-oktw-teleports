@@ -1,0 +1,135 @@
+{
+  "name": "Bjora Marches 2",
+  "teleports": [
+    {
+      "name": "Chest, top location 1",
+      "coordinates": [
+        -7574.6826,
+        26604.31,
+        16447.87
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 2",
+      "coordinates": [
+        -25477.662,
+        22745.53,
+        14855.086
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 3",
+      "coordinates": [
+        -11960.713,
+        -11607.583,
+        13763.072
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 4",
+      "coordinates": [
+        480.99466,
+        -11096.288,
+        11444.572
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 5",
+      "coordinates": [
+        -11974.713,
+        -21354.73,
+        12396.454
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 6",
+      "coordinates": [
+        -28418.898,
+        -13994.1875,
+        3686.2017
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 7",
+      "coordinates": [
+        -29312.537,
+        16831.371,
+        8901.6875
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Chest, top location 8",
+      "coordinates": [
+        -37534.703,
+        9042.199,
+        24.29192
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest",
+      "coordinates": [
+        -19048.994,
+        -20881.543,
+        6719.574
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 2",
+      "coordinates": [
+        -16440.055,
+        22793.184,
+        11317.066
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 3",
+      "coordinates": [
+        -26900.0,
+        5477.232,
+        6041.316
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 4",
+      "coordinates": [
+        -18158.936,
+        4175.8203,
+        7368.307
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Norn Chest 5",
+      "coordinates": [
+        -36873.21,
+        8513.813,
+        1624.3972
+      ],
+      "map": 1343,
+      "tooltip": null
+    }
+  ]
+}
