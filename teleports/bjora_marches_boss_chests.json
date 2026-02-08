@@ -1,0 +1,35 @@
+{
+  "name": "Bjora Marches Boss Chests",
+  "teleports": [
+    {
+      "name": "The Keep Meta chests (inside raven gate)",
+      "coordinates": [
+        3786.8323,
+        20099.975,
+        7532.2695
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "The Keep Meta Chest Area",
+      "coordinates": [
+        14301.478,
+        16210.463,
+        8471.127
+      ],
+      "map": 1343,
+      "tooltip": null
+    },
+    {
+      "name": "Drakkar Meta chest area",
+      "coordinates": [
+        -39588.57,
+        -12008.903,
+        2203.2698
+      ],
+      "map": 1343,
+      "tooltip": null
+    }
+  ]
+}
