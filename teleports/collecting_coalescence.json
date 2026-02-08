@@ -1,0 +1,35 @@
+{
+  "name": "Collecting Coalescence",
+  "teleports": [
+    {
+      "name": "Burning Grotto",
+      "coordinates": [
+        16532.55,
+        -23645.092,
+        120.10895
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Lava Flats",
+      "coordinates": [
+        8811.887,
+        -10417.992,
+        1155.7472
+      ],
+      "map": 1175,
+      "tooltip": null
+    },
+    {
+      "name": "Osprey Pillars",
+      "coordinates": [
+        -16319.986,
+        -34120.04,
+        607.15045
+      ],
+      "map": 1175,
+      "tooltip": null
+    }
+  ]
+}
