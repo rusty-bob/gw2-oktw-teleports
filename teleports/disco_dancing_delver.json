@@ -1,0 +1,25 @@
+{
+  "name": "Disco Dancing Delver",
+  "teleports": [
+    {
+      "name": "Talk to Golem",
+      "coordinates": [
+        -10632.593,
+        -9439.144,
+        4268.2275
+      ],
+      "map": 1045,
+      "tooltip": null
+    },
+    {
+      "name": "Dance Here",
+      "coordinates": [
+        -12386.214,
+        -7989.9966,
+        4111.482
+      ],
+      "map": 1045,
+      "tooltip": null
+    }
+  ]
+}
