@@ -1,0 +1,165 @@
+{
+  "name": "Behind Demon Lines",
+  "teleports": [
+    {
+      "name": "Defeat the champion Avatar of Rage",
+      "coordinates": [
+        14562.175,
+        19996.508,
+        10916.51
+      ],
+      "map": 1526,
+      "tooltip": "Defeat the champion Avatar of Rage"
+    },
+    {
+      "name": "Escort the recon team as they investigate unusual Kryptis activity",
+      "coordinates": [
+        25463.645,
+        -18490.953,
+        8486.639
+      ],
+      "map": 1526,
+      "tooltip": "Escort the recon team as they investigate unusual Kryptis activity (Event 1 of 2)"
+    },
+    {
+      "name": "Defeat the wanderer",
+      "coordinates": [
+        6484.6035,
+        -20167.055,
+        9194.636
+      ],
+      "map": 1526,
+      "tooltip": "Defeat the wanderer (Event 2 of 2)"
+    },
+    {
+      "name": "Destroy the Kryptis siege weapons",
+      "coordinates": [
+        28826.842,
+        4062.0957,
+        7910.5527
+      ],
+      "map": 1526,
+      "tooltip": "Destroy the Kryptis siege weapons"
+    },
+    {
+      "name": "Defeat the Kryptis before they open a rift into Tyria",
+      "coordinates": [
+        29124.318,
+        18417.8,
+        8954.304
+      ],
+      "map": 1526,
+      "tooltip": "Defeat the Kryptis before they open a rift into Tyria"
+    },
+    {
+      "name": "Prevent the Kryptis from repairing the extractor",
+      "coordinates": [
+        31889.748,
+        16955.777,
+        8728.032
+      ],
+      "map": 1526,
+      "tooltip": "Prevent the Kryptis from repairing the extractor"
+    },
+    {
+      "name": "Find and destroy the tendrils of Nourys",
+      "coordinates": [
+        33585.047,
+        6618.1304,
+        6795.008
+      ],
+      "map": 1526,
+      "tooltip": "Find and destroy the tendrils of Nourys (Event 1 of 3)"
+    },
+    {
+      "name": "Use your skyscale to intercept magic around the extractor",
+      "coordinates": [
+        38406.176,
+        4267.362,
+        7863.454
+      ],
+      "map": 1526,
+      "tooltip": "Use your skyscale to intercept magic around the extractor (Event 2 of 3)"
+    },
+    {
+      "name": "Defeat Valdus the Silent",
+      "coordinates": [
+        32464.1,
+        4384.3135,
+        6887.3325
+      ],
+      "map": 1526,
+      "tooltip": "Defeat Valdus the Silent (Event 3 of 3)"
+    },
+    {
+      "name": "Destroy the Kryptis turrets",
+      "coordinates": [
+        30546.578,
+        -2742.528,
+        7240.986
+      ],
+      "map": 1526,
+      "tooltip": "Destroy the Kryptis turrets"
+    },
+    {
+      "name": "Defend Lieutenant Sejana Forgewill by fighting off Kryptis",
+      "coordinates": [
+        29931.756,
+        -7889.094,
+        7471.117
+      ],
+      "map": 1526,
+      "tooltip": "Defend Lieutenant Sejana Forgewill by fighting off Kryptis"
+    },
+    {
+      "name": "Find and defeat the Kryptis patrol leaders",
+      "coordinates": [
+        37651.82,
+        13755.167,
+        6762.2305
+      ],
+      "map": 1526,
+      "tooltip": "Find and defeat the Kryptis patrol leaders (Event 1 of 4)"
+    },
+    {
+      "name": "Collect the remains of the Astral Ward defenders",
+      "coordinates": [
+        32847.28,
+        10356.058,
+        6991.9883
+      ],
+      "map": 1526,
+      "tooltip": "Collect the remains of the Astral Ward defenders (Event 2 of 4)"
+    },
+    {
+      "name": "Defend the turrets from being destroyed",
+      "coordinates": [
+        32835.652,
+        9945.298,
+        6888.032
+      ],
+      "map": 1526,
+      "tooltip": "Defend the turrets from being destroyed (Event 3 of 4)"
+    },
+    {
+      "name": "Defeat Kyrillas the Purifier",
+      "coordinates": [
+        32845.277,
+        9562.24,
+        6867.748
+      ],
+      "map": 1526,
+      "tooltip": "Defeat Kyrillas the Purifier (Event 4 of 4)"
+    },
+    {
+      "name": "Retrieve the stolen supplies",
+      "coordinates": [
+        32330.666,
+        -11409.016,
+        7567.993
+      ],
+      "map": 1526,
+      "tooltip": "Retrieve the stolen supplies"
+    }
+  ]
+}
