@@ -1,0 +1,85 @@
+{
+  "name": "Riverlands Griffon Master",
+  "teleports": [
+    {
+      "name": "PLAY",
+      "coordinates": [
+        18675.809,
+        -19302.643,
+        3711.745
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 1",
+      "coordinates": [
+        18950.418,
+        -21238.623,
+        2091.726
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 2",
+      "coordinates": [
+        21643.871,
+        -26281.629,
+        1726.7323
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 3",
+      "coordinates": [
+        30951.537,
+        -23714.387,
+        3922.6667
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 4",
+      "coordinates": [
+        36504.953,
+        -20952.049,
+        325.21545
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 5",
+      "coordinates": [
+        36005.457,
+        -12449.299,
+        349.20618
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 6",
+      "coordinates": [
+        36459.953,
+        -6082.9326,
+        539.3653
+      ],
+      "map": 1228,
+      "tooltip": null
+    },
+    {
+      "name": "Teleport 7",
+      "coordinates": [
+        35339.54,
+        3824.646,
+        459.58398
+      ],
+      "map": 1228,
+      "tooltip": null
+    }
+  ]
+}
