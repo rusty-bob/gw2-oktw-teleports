@@ -1,0 +1,175 @@
+{
+  "name": "Radiance of the Sun God",
+  "teleports": [
+    {
+      "name": "Find the Shard of Zintl in Wychmire Swamp",
+      "coordinates": [
+        -20437.814,
+        26269.613,
+        173.58456
+      ],
+      "map": 34,
+      "tooltip": null
+    },
+    {
+      "name": "Find Palak's Acolyte in Jelako Cliffrise",
+      "coordinates": [
+        -18072.88,
+        -29049.19,
+        624.07275
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Speak to the Lepatl chieftain",
+      "coordinates": [
+        -21290.79,
+        -20199.297,
+        1801.6934
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Track down the Lorantl hylek",
+      "coordinates": [
+        12036.824,
+        4805.7153,
+        48.906067
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Recover the stolen s hard from the trolls in Risewild Hills",
+      "coordinates": [
+        22585.588,
+        1263.7871,
+        2686.2837
+      ],
+      "map": 73,
+      "tooltip": null
+    },
+    {
+      "name": "Find Palak's acolyte in Viathan's Arm",
+      "coordinates": [
+        -4728.8467,
+        -1060.3773,
+        217.26677
+      ],
+      "map": 23,
+      "tooltip": null
+    },
+    {
+      "name": "Purchase a set of  Dragonfly Steaks from the hylek cook in Michoan Marsh",
+      "coordinates": [
+        2499.5188,
+        1484.7598,
+        6.611801
+      ],
+      "map": 35,
+      "tooltip": null
+    },
+    {
+      "name": "Return to the Togatl chief with the Dragonfly Steaks",
+      "coordinates": [
+        -5025.2104,
+        -1303.8804,
+        190.30296
+      ],
+      "map": 23,
+      "tooltip": null
+    },
+    {
+      "name": "Find Palak's acolyte in the Hunting Banks",
+      "coordinates": [
+        9370.221,
+        -5249.1978,
+        873.871
+      ],
+      "map": 29,
+      "tooltip": null
+    },
+    {
+      "name": "Defeat krait or the krait witch at Nonmoa Lake",
+      "coordinates": [
+        9500.219,
+        -11139.512,
+        74.84261
+      ],
+      "map": 29,
+      "tooltip": "kill krait here when event starts"
+    },
+    {
+      "name": "Or kill the krait witch (event) here",
+      "coordinates": [
+        12369.286,
+        -19779.207,
+        2481.6587
+      ],
+      "map": 29,
+      "tooltip": null
+    },
+    {
+      "name": "Find Palak's acolyte in Whitland Flats",
+      "coordinates": [
+        43365.53,
+        3189.9473,
+        371.77048
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Uncover the shard in the Inquest reactor by solving the zone puzzle",
+      "coordinates": [
+        36706.336,
+        23462.854,
+        610.69495
+      ],
+      "map": 39,
+      "tooltip": null
+    },
+    {
+      "name": "Seek out the shaman in Astrozintli Forelands",
+      "coordinates": [
+        373.47263,
+        16535.04,
+        1124.309
+      ],
+      "map": 53,
+      "tooltip": null
+    },
+    {
+      "name": "Meditate at the hylek holy site",
+      "coordinates": [
+        41552.68,
+        -19127.896,
+        89.45035
+      ],
+      "map": 39,
+      "tooltip": "/sit near the heart vendor"
+    },
+    {
+      "name": "Return to shaman Huelec",
+      "coordinates": [
+        372.59192,
+        16510.783,
+        1124.805
+      ],
+      "map": 53,
+      "tooltip": null
+    },
+    {
+      "name": "Return to Palak",
+      "coordinates": [
+        22542.15,
+        2665.6187,
+        758.6736
+      ],
+      "map": 1595,
+      "tooltip": null
+    }
+  ]
+}
